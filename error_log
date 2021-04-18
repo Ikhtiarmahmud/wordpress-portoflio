@@ -1,0 +1,1 @@
+[09-Apr-2021 16:50:20 UTC] PHP Warning:  Use of undefined constant WP_CONTENT_DIR - assumed 'WP_CONTENT_DIR' (this will throw an Error in a future version of PHP) in /home/mitulxyz/public_html/wp-includes/load.php on line 141
